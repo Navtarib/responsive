@@ -1,0 +1,211 @@
+@media only screen and (min-width: 426px) and (max-width: 1250px)  {
+    .container {
+      max-width: 944px;
+    }
+    .bar{
+        display: none;
+    }
+  }
+  
+  @media only screen and (max-width: 1023px) {
+    .container {
+      padding: 0 20px;
+    }
+    ul li a {
+      font-size: 13px;
+  }
+  
+  .logo-container {
+      max-width: 110px;
+  }
+  
+  .button {
+      font-size: 13px;
+      padding: 12px 30px;
+  }
+  
+  .status-title {
+      font-size: 12px;
+  }
+  
+  .status-circle {
+      width: 15px;
+      height: 15px;
+  }
+  
+  .hero-para {
+      font-size: 11px;
+  }
+  
+  .hero-subtitle {
+      font-size: 34px;
+  }
+  
+  .hero-bold-title {
+      font-size: 48px;
+  }
+  
+  .hero-light-title {
+      font-size: 18px;
+  }
+  
+  .about-col-2 {
+      display: flex;
+      flex-direction: column;
+  }
+  
+  .col-2-left {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .col-2-right {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+  }
+  
+  .left-title {
+      text-align: center;
+      font-size: 35px;
+  }
+  
+  .left-desc {
+      text-align: center;
+  }
+  
+  .status-circle-text {
+      font-size: 11px;
+  }
+  
+  .job-list-title {
+      font-size: 35px;
+  }
+  
+  .left-title-span {
+      font-size: 35px;
+  }
+  
+  .job-category-title {
+      font-size: 30px;
+  }
+  
+  .button-white {
+      padding: 12px 30px;
+  }
+  
+  }
+  
+  @media only screen and (max-width: 768px) {
+    
+    .navbars{
+      display: none;
+    }
+  
+  }
+  @media only screen and (max-width: 730px) {
+  .contact-icons ul {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+  }
+  .about-img {
+    margin-top: -70px;
+  }
+  
+  
+  .social-logo {
+      max-width: 25px;
+  }
+  .prices {
+    font-size: 13px;
+  }
+  
+  .post-date {
+    font-size: 13px;
+  }
+  }
+  @media only screen and (max-width: 519px) {
+  
+    .about-img {
+      margin-top: -151px;
+  }
+  .job-detail-row-1 {
+    flex-wrap: wrap;
+    gap: 12px;
+    /* align-items: center; */
+    justify-content: center;
+  }
+  
+  .job-detail-row-2 {
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: center;
+  }
+  
+  .job-detail-row-3 {
+    justify-content: center;
+  }
+  
+  .left-title-span {
+    font-size: 24px;
+  }
+  
+  .job-list-title {
+    font-size: 24px;
+  }
+  
+  .job-category-title {
+    font-size: 22px;
+  }
+  
+  .left-title {
+    font-size: 24px;
+  }
+  
+  .hero-bold-title {
+    font-size: 30px;
+  }
+  
+  .hero-subtitle {
+    font-size: 24px;
+  }
+  .about-col-2 {
+    padding: 40px 0 40px 0;
+  }
+  }
+  @media only screen and (max-width: 425px) {
+  
+    .about-img {
+      margin-top: -135px;
+      
+  }
+  .main .container .line-3 .hero-subtitle{
+    font-size: 2rem;
+  }
+  .main .container .line-3 .hero-bold-title{
+    font-size: 2rem;
+  }
+  .header .navbar ul{
+    display: none;.main .container .line-3
+  }
+  }
+  @media only screen and (max-width: 370px) {
+  
+    .about-img {
+      margin-top: -195px;
+  }
+  .header .navbar ul{
+    display: none;
+  }
+  .main .container .line-3 .hero-bold-title {
+   line-height: 36px;
+}
+
+
+
